@@ -1,0 +1,2 @@
+repo ini dibuat di kelas PBP yang dimana ada pengenalan untuk GIT
+jadiinya repo ini hanya berisikan txt coba coba
